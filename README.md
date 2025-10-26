@@ -21,8 +21,16 @@
 <p align="center"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
+  &emsp;
+   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
   </a>
+</p>
+
+<p align="center"> 
+
+
 </p>
    
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operative Systems
